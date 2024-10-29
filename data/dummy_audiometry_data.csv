@@ -1,0 +1,1001 @@
+Right_250 Hz,Right_500 Hz,Right_1000 Hz,Right_2000 Hz,Right_4000 Hz,Right_8000 Hz,Hearing_Status,Left_250 Hz,Left_500 Hz,Left_1000 Hz,Left_2000 Hz,Left_4000 Hz,Left_8000 Hz,Hearing_Status,Patient_ID
+78,67,20,30,29,98,loss hearing,31,44,59,90,1,96,loss hearing,Patient_1
+89,80,21,45,78,56,loss hearing,85,8,36,19,54,61,loss hearing,Patient_2
+49,10,65,23,93,66,loss hearing,73,60,67,90,20,29,loss hearing,Patient_3
+90,62,25,61,21,26,loss hearing,50,33,43,72,2,26,normal,Patient_4
+76,39,75,61,80,99,loss hearing,62,31,82,51,24,93,loss hearing,Patient_5
+68,77,42,84,44,0,loss hearing,90,40,7,0,72,19,normal,Patient_6
+11,16,15,36,53,59,normal,57,24,63,62,27,2,normal,Patient_7
+4,28,69,65,15,0,normal,84,82,73,72,73,12,loss hearing,Patient_8
+25,46,52,71,96,19,loss hearing,84,35,99,66,0,56,loss hearing,Patient_9
+44,40,27,67,11,65,loss hearing,73,49,76,23,79,99,loss hearing,Patient_10
+4,14,11,87,6,93,normal,96,78,74,79,2,5,loss hearing,Patient_11
+69,9,26,14,98,89,loss hearing,74,92,79,5,81,27,loss hearing,Patient_12
+4,22,27,48,69,0,normal,39,97,99,35,99,59,loss hearing,Patient_13
+53,78,22,76,94,45,loss hearing,4,16,11,43,33,87,normal,Patient_14
+25,33,14,96,11,19,normal,2,98,73,96,57,78,loss hearing,Patient_15
+31,88,4,6,99,63,loss hearing,82,1,87,60,57,5,loss hearing,Patient_16
+61,7,87,25,7,76,loss hearing,16,72,37,32,98,34,loss hearing,Patient_17
+46,23,13,13,62,40,normal,39,81,22,53,18,90,loss hearing,Patient_18
+53,37,18,32,15,63,normal,12,1,25,7,84,83,normal,Patient_19
+50,34,42,74,65,24,loss hearing,42,52,38,81,43,62,loss hearing,Patient_20
+9,83,26,33,77,35,loss hearing,91,5,54,23,86,79,loss hearing,Patient_21
+34,75,47,59,36,22,loss hearing,34,73,71,45,88,8,loss hearing,Patient_22
+69,12,32,60,69,20,loss hearing,12,56,53,28,63,11,normal,Patient_23
+49,21,84,6,28,85,loss hearing,32,98,91,13,58,59,loss hearing,Patient_24
+71,44,21,96,45,95,loss hearing,34,66,88,54,31,76,loss hearing,Patient_25
+62,35,98,99,83,70,loss hearing,31,17,82,68,85,72,loss hearing,Patient_26
+9,51,3,19,88,57,normal,48,6,27,16,1,72,normal,Patient_27
+94,69,99,28,76,71,loss hearing,32,17,72,24,83,80,loss hearing,Patient_28
+9,74,86,93,46,94,loss hearing,5,27,10,40,16,46,normal,Patient_29
+22,68,58,29,34,11,normal,0,82,95,7,36,95,loss hearing,Patient_30
+66,81,61,8,87,86,loss hearing,44,13,51,20,54,25,normal,Patient_31
+82,1,31,77,30,19,loss hearing,48,91,70,91,89,58,loss hearing,Patient_32
+99,14,66,15,25,7,normal,51,72,86,68,15,94,loss hearing,Patient_33
+78,24,34,7,28,91,loss hearing,95,72,5,83,1,59,loss hearing,Patient_34
+99,22,26,17,48,44,loss hearing,96,27,88,21,50,39,loss hearing,Patient_35
+3,13,72,20,78,49,normal,99,92,52,33,91,95,loss hearing,Patient_36
+44,72,86,0,12,10,normal,5,64,44,55,45,48,loss hearing,Patient_37
+16,46,77,64,54,21,loss hearing,34,29,61,51,1,95,loss hearing,Patient_38
+97,58,48,90,9,6,loss hearing,62,70,48,68,6,43,loss hearing,Patient_39
+84,14,6,15,33,42,normal,14,51,81,45,70,38,loss hearing,Patient_40
+15,59,31,89,25,77,loss hearing,47,78,70,14,91,56,loss hearing,Patient_41
+57,53,31,34,77,7,loss hearing,61,34,53,78,10,23,loss hearing,Patient_42
+61,98,100,15,57,55,loss hearing,42,92,81,40,63,17,loss hearing,Patient_43
+86,33,73,18,86,89,loss hearing,45,65,30,42,56,96,loss hearing,Patient_44
+58,91,18,92,28,12,loss hearing,100,36,94,68,10,5,loss hearing,Patient_45
+90,99,85,9,64,18,loss hearing,72,30,38,93,43,60,loss hearing,Patient_46
+82,100,67,34,44,74,loss hearing,55,90,11,58,36,68,loss hearing,Patient_47
+71,54,13,89,51,66,loss hearing,60,51,83,5,60,52,loss hearing,Patient_48
+5,58,76,92,1,28,loss hearing,64,82,34,80,37,58,loss hearing,Patient_49
+81,85,48,98,58,61,loss hearing,27,58,26,72,70,70,loss hearing,Patient_50
+41,62,79,97,93,89,loss hearing,20,57,73,71,28,51,loss hearing,Patient_51
+78,59,69,53,1,11,loss hearing,65,52,58,14,22,99,loss hearing,Patient_52
+67,15,28,46,37,53,loss hearing,58,74,1,10,96,55,loss hearing,Patient_53
+44,0,7,1,17,81,normal,13,39,90,21,31,35,normal,Patient_54
+72,13,97,99,34,35,loss hearing,39,25,5,0,16,85,normal,Patient_55
+47,31,33,58,21,14,normal,94,78,42,16,83,16,loss hearing,Patient_56
+73,52,84,90,97,70,loss hearing,38,33,72,43,36,94,loss hearing,Patient_57
+8,9,94,63,98,81,loss hearing,8,53,63,22,1,9,normal,Patient_58
+64,11,56,65,68,100,loss hearing,49,26,26,21,43,78,loss hearing,Patient_59
+11,15,51,18,33,93,normal,72,65,22,32,98,14,loss hearing,Patient_60
+43,18,38,58,59,97,loss hearing,42,46,49,75,10,90,loss hearing,Patient_61
+55,2,89,68,69,28,loss hearing,95,34,52,24,95,46,loss hearing,Patient_62
+32,22,99,23,25,31,normal,48,85,4,72,32,77,loss hearing,Patient_63
+88,88,58,80,84,35,loss hearing,91,76,91,29,56,90,loss hearing,Patient_64
+8,51,92,51,88,13,loss hearing,55,26,67,25,45,36,loss hearing,Patient_65
+84,25,66,47,70,32,loss hearing,35,59,25,97,45,50,loss hearing,Patient_66
+65,41,76,92,44,1,loss hearing,59,56,92,97,60,82,loss hearing,Patient_67
+33,96,33,0,69,73,loss hearing,74,85,0,57,87,4,loss hearing,Patient_68
+25,16,98,8,39,74,loss hearing,72,87,67,12,26,56,loss hearing,Patient_69
+96,55,70,35,67,48,loss hearing,8,19,93,22,90,4,normal,Patient_70
+6,48,60,50,8,2,normal,58,48,82,40,84,78,loss hearing,Patient_71
+90,28,97,62,29,74,loss hearing,12,77,55,25,74,61,loss hearing,Patient_72
+1,30,87,32,41,16,normal,71,66,62,94,10,75,loss hearing,Patient_73
+12,4,71,86,76,76,loss hearing,27,16,73,19,33,70,normal,Patient_74
+52,88,74,55,21,7,loss hearing,98,97,37,72,78,37,loss hearing,Patient_75
+37,94,3,63,31,24,loss hearing,98,99,60,9,96,1,loss hearing,Patient_76
+40,62,46,69,21,80,loss hearing,7,74,22,85,33,88,loss hearing,Patient_77
+100,3,72,37,86,74,loss hearing,3,42,9,68,57,91,loss hearing,Patient_78
+75,63,6,66,77,5,loss hearing,72,23,68,66,89,39,loss hearing,Patient_79
+2,31,32,54,16,37,normal,32,12,81,38,11,15,normal,Patient_80
+46,9,61,81,34,35,loss hearing,46,93,85,46,47,24,loss hearing,Patient_81
+79,76,41,30,91,21,loss hearing,12,88,3,74,63,16,loss hearing,Patient_82
+18,46,39,56,95,62,loss hearing,66,44,26,27,42,69,loss hearing,Patient_83
+72,41,46,11,84,68,loss hearing,21,95,51,25,33,73,loss hearing,Patient_84
+20,56,45,94,28,25,loss hearing,60,4,50,73,89,98,loss hearing,Patient_85
+13,66,26,4,85,17,normal,87,31,46,43,44,0,loss hearing,Patient_86
+23,22,58,21,38,70,normal,27,91,87,57,64,5,loss hearing,Patient_87
+89,89,31,32,51,45,loss hearing,29,52,0,94,61,1,normal,Patient_88
+86,47,0,51,6,16,normal,19,58,88,3,59,16,loss hearing,Patient_89
+14,53,39,55,96,46,loss hearing,46,17,91,26,11,74,loss hearing,Patient_90
+72,5,94,16,25,66,loss hearing,87,16,27,16,0,10,normal,Patient_91
+44,61,29,13,31,75,loss hearing,20,71,54,70,47,72,loss hearing,Patient_92
+79,75,3,43,88,29,loss hearing,79,61,62,54,96,78,loss hearing,Patient_93
+90,18,3,47,45,18,normal,58,76,12,44,57,67,loss hearing,Patient_94
+60,60,9,53,100,86,loss hearing,84,47,65,45,82,62,loss hearing,Patient_95
+77,83,62,76,70,16,loss hearing,40,47,52,56,24,41,loss hearing,Patient_96
+59,36,32,23,58,48,loss hearing,82,11,34,24,14,23,normal,Patient_97
+37,98,65,6,71,14,loss hearing,91,79,36,93,60,72,loss hearing,Patient_98
+68,28,5,55,2,82,loss hearing,56,100,70,3,68,11,loss hearing,Patient_99
+52,19,63,75,13,53,loss hearing,56,6,99,66,42,12,loss hearing,Patient_100
+88,59,62,77,44,88,loss hearing,14,94,14,38,32,32,normal,Patient_101
+96,61,8,76,40,3,loss hearing,91,26,30,69,91,80,loss hearing,Patient_102
+59,77,96,20,16,91,loss hearing,74,30,6,70,40,76,loss hearing,Patient_103
+24,89,49,76,54,14,loss hearing,25,73,8,90,41,98,loss hearing,Patient_104
+97,78,3,0,38,82,loss hearing,61,54,69,81,18,69,loss hearing,Patient_105
+99,14,42,72,83,80,loss hearing,92,30,8,51,38,62,loss hearing,Patient_106
+3,72,33,72,28,41,loss hearing,19,63,19,87,58,87,loss hearing,Patient_107
+90,8,59,74,41,59,loss hearing,42,24,54,83,53,9,loss hearing,Patient_108
+43,59,50,64,85,1,loss hearing,54,67,66,92,15,93,loss hearing,Patient_109
+25,52,45,14,28,99,loss hearing,100,79,28,42,63,91,loss hearing,Patient_110
+43,4,6,70,58,17,normal,91,71,52,18,24,49,loss hearing,Patient_111
+16,52,41,26,81,30,loss hearing,73,74,46,38,3,53,loss hearing,Patient_112
+86,71,22,75,55,31,loss hearing,27,44,9,33,50,4,normal,Patient_113
+8,74,97,88,23,87,loss hearing,44,94,89,88,14,1,loss hearing,Patient_114
+82,22,35,11,37,22,normal,27,6,51,10,82,61,normal,Patient_115
+100,33,47,39,50,43,loss hearing,14,88,88,54,29,15,loss hearing,Patient_116
+39,2,61,49,14,18,normal,57,6,5,99,39,21,normal,Patient_117
+71,83,55,75,47,15,loss hearing,3,39,88,4,28,31,normal,Patient_118
+8,82,35,21,26,18,normal,95,16,68,59,19,40,loss hearing,Patient_119
+48,23,67,26,96,12,loss hearing,8,6,49,90,98,53,loss hearing,Patient_120
+18,73,95,68,46,3,loss hearing,1,9,80,26,98,70,loss hearing,Patient_121
+43,10,55,37,50,17,normal,23,2,49,84,2,51,normal,Patient_122
+81,67,92,61,6,27,loss hearing,45,2,23,43,90,81,loss hearing,Patient_123
+51,38,43,79,92,62,loss hearing,87,94,12,35,90,36,loss hearing,Patient_124
+96,55,24,81,4,72,loss hearing,41,20,55,3,60,33,normal,Patient_125
+8,58,58,54,20,1,normal,74,81,3,50,39,22,loss hearing,Patient_126
+40,76,0,89,45,26,loss hearing,78,88,23,15,59,11,loss hearing,Patient_127
+66,63,32,93,54,36,loss hearing,14,26,77,24,36,33,normal,Patient_128
+89,3,5,48,27,100,loss hearing,70,2,35,3,61,66,normal,Patient_129
+74,59,49,81,21,32,loss hearing,17,5,72,79,30,71,loss hearing,Patient_130
+42,31,78,13,59,12,normal,90,4,25,72,53,40,loss hearing,Patient_131
+31,36,10,42,57,65,loss hearing,94,75,76,71,59,42,loss hearing,Patient_132
+90,32,10,93,20,97,loss hearing,78,94,76,89,83,96,loss hearing,Patient_133
+60,21,83,8,23,58,loss hearing,73,72,9,100,46,87,loss hearing,Patient_134
+8,81,88,27,38,25,loss hearing,69,9,37,40,65,21,loss hearing,Patient_135
+17,24,44,93,56,50,loss hearing,60,88,55,26,6,27,loss hearing,Patient_136
+52,47,99,12,42,49,loss hearing,33,51,71,19,74,92,loss hearing,Patient_137
+79,38,15,42,54,70,loss hearing,78,72,32,17,67,82,loss hearing,Patient_138
+100,26,43,10,88,1,loss hearing,55,12,95,72,18,4,loss hearing,Patient_139
+59,17,34,52,93,36,loss hearing,6,94,40,29,46,36,loss hearing,Patient_140
+69,53,84,18,45,96,loss hearing,52,77,66,49,58,50,loss hearing,Patient_141
+92,15,39,78,0,22,loss hearing,26,67,14,80,87,25,loss hearing,Patient_142
+2,43,28,24,69,57,normal,74,2,66,51,16,30,normal,Patient_143
+79,44,50,98,35,60,loss hearing,69,64,36,15,94,65,loss hearing,Patient_144
+9,87,14,87,14,34,loss hearing,30,41,30,1,84,44,normal,Patient_145
+96,72,83,90,31,97,loss hearing,35,18,90,77,16,39,loss hearing,Patient_146
+30,91,41,4,72,43,loss hearing,60,87,36,47,32,28,loss hearing,Patient_147
+81,25,56,37,38,87,loss hearing,46,64,70,98,56,95,loss hearing,Patient_148
+67,31,11,55,68,98,loss hearing,1,91,42,8,29,65,normal,Patient_149
+97,59,66,99,26,99,loss hearing,74,53,90,19,92,74,loss hearing,Patient_150
+60,46,91,73,34,27,loss hearing,37,73,58,73,50,55,loss hearing,Patient_151
+50,5,62,66,55,31,loss hearing,10,72,71,52,63,92,loss hearing,Patient_152
+88,23,78,45,3,23,loss hearing,29,77,52,84,53,39,loss hearing,Patient_153
+32,50,75,6,61,3,normal,92,31,76,60,9,88,loss hearing,Patient_154
+77,31,6,12,90,16,normal,59,83,33,19,60,22,loss hearing,Patient_155
+100,58,15,77,88,81,loss hearing,69,2,1,44,17,87,normal,Patient_156
+85,95,1,41,5,83,loss hearing,76,85,48,10,65,86,loss hearing,Patient_157
+67,74,21,3,48,62,loss hearing,14,37,51,55,8,16,normal,Patient_158
+77,32,21,81,16,27,loss hearing,67,41,59,58,18,76,loss hearing,Patient_159
+87,64,13,84,15,61,loss hearing,95,39,20,94,75,16,loss hearing,Patient_160
+75,33,68,32,88,93,loss hearing,41,17,18,36,9,41,normal,Patient_161
+25,58,97,91,11,13,loss hearing,66,65,59,82,86,12,loss hearing,Patient_162
+80,87,55,13,72,83,loss hearing,66,56,37,43,7,29,normal,Patient_163
+51,22,83,40,75,43,loss hearing,6,87,14,95,35,66,loss hearing,Patient_164
+55,100,89,84,59,52,loss hearing,54,49,31,8,30,45,normal,Patient_165
+29,39,94,15,11,83,loss hearing,34,2,40,14,82,89,loss hearing,Patient_166
+75,73,2,63,2,17,normal,83,35,76,76,41,92,loss hearing,Patient_167
+86,60,88,53,80,57,loss hearing,74,39,14,74,18,50,loss hearing,Patient_168
+16,9,83,93,4,49,loss hearing,43,43,41,14,67,38,loss hearing,Patient_169
+81,90,82,61,34,49,loss hearing,18,23,55,21,83,65,loss hearing,Patient_170
+100,82,41,58,41,82,loss hearing,33,75,95,58,0,67,loss hearing,Patient_171
+2,33,7,81,50,98,loss hearing,91,2,41,59,82,97,loss hearing,Patient_172
+90,86,7,56,20,9,loss hearing,45,47,32,49,79,85,loss hearing,Patient_173
+54,44,89,23,53,13,loss hearing,92,51,59,41,13,56,loss hearing,Patient_174
+55,42,53,84,88,69,loss hearing,40,79,95,70,73,87,loss hearing,Patient_175
+76,57,50,43,30,84,loss hearing,69,17,86,13,79,91,loss hearing,Patient_176
+9,89,98,81,67,82,loss hearing,55,23,18,60,34,4,normal,Patient_177
+11,45,68,21,22,9,normal,8,65,83,4,95,12,loss hearing,Patient_178
+36,97,11,53,93,75,loss hearing,44,0,1,52,52,32,normal,Patient_179
+83,3,88,86,27,90,loss hearing,36,34,20,65,67,80,loss hearing,Patient_180
+32,32,27,88,76,97,loss hearing,46,55,75,75,42,59,loss hearing,Patient_181
+36,5,76,54,7,34,normal,85,0,55,8,30,78,loss hearing,Patient_182
+53,77,70,32,39,73,loss hearing,7,13,41,22,98,15,normal,Patient_183
+63,92,54,54,52,5,loss hearing,83,91,60,7,79,5,loss hearing,Patient_184
+69,13,46,26,11,58,normal,92,17,73,12,59,52,loss hearing,Patient_185
+18,25,82,58,43,33,loss hearing,78,4,16,68,52,66,loss hearing,Patient_186
+45,19,60,21,93,76,loss hearing,80,88,59,58,83,82,loss hearing,Patient_187
+29,99,65,76,46,81,loss hearing,78,82,99,87,6,56,loss hearing,Patient_188
+19,32,66,35,67,85,loss hearing,65,22,60,57,95,14,loss hearing,Patient_189
+89,95,64,98,74,56,loss hearing,51,96,59,35,88,31,loss hearing,Patient_190
+17,14,72,15,80,54,loss hearing,62,43,54,10,27,32,normal,Patient_191
+64,67,43,80,89,66,loss hearing,29,20,33,80,95,2,loss hearing,Patient_192
+80,35,88,90,49,78,loss hearing,17,8,82,95,16,22,loss hearing,Patient_193
+88,92,62,0,99,22,loss hearing,76,92,55,47,65,57,loss hearing,Patient_194
+42,88,18,57,21,43,loss hearing,15,22,95,5,21,13,normal,Patient_195
+100,94,30,32,11,100,loss hearing,2,25,14,40,0,22,normal,Patient_196
+18,37,91,55,32,5,normal,64,19,9,18,14,45,normal,Patient_197
+13,40,38,97,76,22,loss hearing,44,63,58,36,69,43,loss hearing,Patient_198
+74,56,91,45,32,98,loss hearing,0,16,62,22,60,28,normal,Patient_199
+1,7,26,87,71,30,normal,61,8,45,54,14,20,normal,Patient_200
+82,31,10,59,44,59,loss hearing,89,41,26,22,25,23,normal,Patient_201
+94,57,42,57,16,43,loss hearing,78,62,91,94,27,24,loss hearing,Patient_202
+19,60,88,15,1,62,loss hearing,32,42,35,98,20,68,loss hearing,Patient_203
+8,45,100,35,65,17,loss hearing,11,64,62,79,7,0,normal,Patient_204
+100,59,94,62,69,11,loss hearing,1,29,51,44,37,85,loss hearing,Patient_205
+44,96,82,63,93,91,loss hearing,79,7,31,35,52,41,loss hearing,Patient_206
+57,45,6,61,45,35,loss hearing,84,37,100,86,66,34,loss hearing,Patient_207
+15,53,38,0,15,97,normal,34,96,55,28,39,14,loss hearing,Patient_208
+90,8,75,85,88,37,loss hearing,74,14,20,60,82,28,loss hearing,Patient_209
+1,57,76,99,80,13,loss hearing,31,96,48,1,95,62,loss hearing,Patient_210
+99,98,96,5,58,53,loss hearing,84,35,27,29,29,10,normal,Patient_211
+27,7,98,63,62,58,loss hearing,13,40,62,84,73,57,loss hearing,Patient_212
+17,10,60,68,63,73,loss hearing,51,77,65,9,31,8,loss hearing,Patient_213
+48,10,72,95,3,31,loss hearing,80,12,25,43,39,64,loss hearing,Patient_214
+96,28,17,46,3,70,loss hearing,99,56,53,2,2,42,loss hearing,Patient_215
+45,60,38,0,8,70,normal,14,73,79,14,66,21,loss hearing,Patient_216
+93,78,33,24,8,30,loss hearing,73,28,68,72,22,20,loss hearing,Patient_217
+24,99,77,55,64,92,loss hearing,76,93,83,45,3,28,loss hearing,Patient_218
+83,64,8,67,39,62,loss hearing,98,99,78,52,29,0,loss hearing,Patient_219
+81,100,22,45,60,1,loss hearing,56,77,53,87,27,0,loss hearing,Patient_220
+26,8,21,64,56,4,normal,64,1,20,52,34,82,loss hearing,Patient_221
+1,58,17,19,92,88,loss hearing,87,70,49,30,66,47,loss hearing,Patient_222
+79,24,6,19,30,71,normal,75,63,35,46,45,93,loss hearing,Patient_223
+63,96,40,35,8,15,loss hearing,58,56,80,97,79,37,loss hearing,Patient_224
+72,16,90,95,90,91,loss hearing,4,99,36,41,86,9,loss hearing,Patient_225
+52,58,100,26,43,11,loss hearing,46,22,50,65,94,59,loss hearing,Patient_226
+52,58,42,79,92,14,loss hearing,72,65,33,75,32,80,loss hearing,Patient_227
+42,73,43,50,11,58,loss hearing,32,26,58,77,95,8,loss hearing,Patient_228
+90,36,65,25,79,85,loss hearing,25,98,8,72,76,2,loss hearing,Patient_229
+27,21,14,84,5,62,normal,35,64,82,51,37,52,loss hearing,Patient_230
+18,3,66,97,18,94,loss hearing,87,52,54,20,40,20,loss hearing,Patient_231
+44,59,75,37,90,39,loss hearing,33,1,58,9,81,36,normal,Patient_232
+51,13,87,64,88,65,loss hearing,37,0,29,49,91,2,normal,Patient_233
+6,69,93,34,48,36,loss hearing,1,50,62,14,80,73,loss hearing,Patient_234
+35,5,30,70,73,1,normal,12,78,99,61,10,99,loss hearing,Patient_235
+15,6,11,52,21,3,normal,48,8,74,55,76,52,loss hearing,Patient_236
+65,11,1,28,12,32,normal,17,31,55,85,58,97,loss hearing,Patient_237
+8,49,17,79,0,92,loss hearing,73,24,59,61,70,86,loss hearing,Patient_238
+36,44,62,3,40,78,loss hearing,74,76,65,69,87,38,loss hearing,Patient_239
+56,94,14,44,71,2,loss hearing,10,46,66,82,10,38,loss hearing,Patient_240
+69,81,77,49,56,57,loss hearing,59,68,85,29,18,7,loss hearing,Patient_241
+25,31,78,98,32,76,loss hearing,45,91,87,20,98,86,loss hearing,Patient_242
+92,66,98,6,32,94,loss hearing,32,77,65,27,88,11,loss hearing,Patient_243
+44,59,17,0,28,77,normal,22,15,15,54,46,93,loss hearing,Patient_244
+75,31,55,59,59,88,loss hearing,84,95,20,64,52,61,loss hearing,Patient_245
+55,57,54,13,23,65,loss hearing,89,57,72,50,45,6,loss hearing,Patient_246
+65,74,22,64,24,47,loss hearing,38,57,100,66,56,58,loss hearing,Patient_247
+81,73,87,63,92,83,loss hearing,88,90,80,30,23,43,loss hearing,Patient_248
+81,24,1,50,64,97,loss hearing,55,25,33,75,16,95,loss hearing,Patient_249
+66,64,91,36,11,64,loss hearing,86,3,81,73,83,64,loss hearing,Patient_250
+25,71,62,42,66,52,loss hearing,56,94,38,13,47,97,loss hearing,Patient_251
+97,40,85,89,96,43,loss hearing,5,58,6,59,56,9,normal,Patient_252
+78,8,20,34,90,45,loss hearing,61,8,62,43,78,92,loss hearing,Patient_253
+98,75,16,26,62,72,loss hearing,84,24,18,32,38,11,normal,Patient_254
+69,7,6,4,25,16,normal,72,30,77,82,25,94,loss hearing,Patient_255
+49,8,100,18,39,77,loss hearing,41,71,51,38,85,56,loss hearing,Patient_256
+77,43,86,16,71,17,loss hearing,2,86,40,26,74,16,loss hearing,Patient_257
+89,45,11,9,53,98,loss hearing,41,19,68,50,86,9,loss hearing,Patient_258
+61,36,18,52,70,94,loss hearing,71,73,58,55,66,7,loss hearing,Patient_259
+30,33,56,6,81,25,normal,68,39,51,50,30,8,loss hearing,Patient_260
+15,34,44,15,65,33,normal,29,75,71,32,58,65,loss hearing,Patient_261
+39,70,23,8,19,88,loss hearing,24,87,82,20,65,65,loss hearing,Patient_262
+89,57,26,19,34,18,loss hearing,77,5,36,57,88,60,loss hearing,Patient_263
+51,71,9,5,54,6,normal,41,9,43,16,35,85,normal,Patient_264
+12,94,66,54,77,19,loss hearing,48,67,0,15,80,61,loss hearing,Patient_265
+51,73,18,34,14,13,normal,54,30,39,75,61,85,loss hearing,Patient_266
+65,38,26,21,43,7,normal,34,37,18,0,5,58,normal,Patient_267
+95,34,13,50,71,49,loss hearing,49,55,56,10,83,97,loss hearing,Patient_268
+44,21,25,11,55,75,normal,51,16,72,26,38,43,loss hearing,Patient_269
+22,46,69,49,98,30,loss hearing,9,97,92,39,55,38,loss hearing,Patient_270
+11,21,91,55,64,52,loss hearing,79,3,32,17,21,5,normal,Patient_271
+90,49,39,49,61,14,loss hearing,51,64,23,9,80,17,loss hearing,Patient_272
+81,68,56,100,24,65,loss hearing,42,43,83,81,17,75,loss hearing,Patient_273
+38,67,0,68,69,67,loss hearing,61,55,87,26,22,85,loss hearing,Patient_274
+83,49,20,66,54,6,loss hearing,3,92,46,50,21,23,normal,Patient_275
+93,35,93,10,91,27,loss hearing,7,71,68,76,64,71,loss hearing,Patient_276
+48,86,11,23,9,16,normal,58,64,23,47,100,93,loss hearing,Patient_277
+3,45,77,33,40,65,loss hearing,89,12,82,8,54,0,loss hearing,Patient_278
+82,1,23,79,5,25,normal,34,65,35,83,0,15,normal,Patient_279
+13,99,0,35,74,89,loss hearing,65,32,28,33,73,4,normal,Patient_280
+48,78,49,52,56,61,loss hearing,69,87,95,99,64,37,loss hearing,Patient_281
+37,81,98,90,34,97,loss hearing,33,44,17,13,26,78,normal,Patient_282
+33,73,2,30,63,34,normal,69,5,4,36,66,5,normal,Patient_283
+1,81,58,7,56,72,loss hearing,86,20,88,13,47,0,loss hearing,Patient_284
+10,23,55,90,12,61,loss hearing,95,85,90,59,7,31,loss hearing,Patient_285
+55,94,24,54,82,47,loss hearing,13,95,0,24,72,49,loss hearing,Patient_286
+37,57,1,14,85,37,normal,13,70,17,32,66,53,loss hearing,Patient_287
+90,61,35,24,87,33,loss hearing,24,22,11,61,37,6,normal,Patient_288
+60,69,66,22,50,12,loss hearing,20,96,23,15,55,55,loss hearing,Patient_289
+59,59,61,32,57,93,loss hearing,39,75,66,40,86,6,loss hearing,Patient_290
+77,84,83,59,72,29,loss hearing,52,41,87,72,95,50,loss hearing,Patient_291
+38,7,47,25,59,37,normal,72,36,69,87,98,0,loss hearing,Patient_292
+32,92,14,42,61,21,loss hearing,49,58,10,77,68,27,loss hearing,Patient_293
+28,69,17,35,3,57,normal,12,22,38,25,41,28,normal,Patient_294
+73,14,47,10,59,87,loss hearing,59,39,81,100,58,43,loss hearing,Patient_295
+11,30,19,76,27,97,loss hearing,2,78,77,64,91,8,loss hearing,Patient_296
+26,93,49,80,79,77,loss hearing,22,51,29,13,94,46,loss hearing,Patient_297
+3,26,28,25,11,6,normal,13,33,73,23,68,38,loss hearing,Patient_298
+64,2,18,85,58,19,loss hearing,52,15,30,88,20,3,normal,Patient_299
+47,84,4,89,27,17,loss hearing,79,61,69,30,94,83,loss hearing,Patient_300
+44,47,34,15,24,46,normal,19,47,92,43,82,62,loss hearing,Patient_301
+55,18,5,84,70,61,loss hearing,31,75,99,66,8,87,loss hearing,Patient_302
+40,46,12,13,93,91,loss hearing,89,35,57,72,28,4,loss hearing,Patient_303
+49,86,80,51,21,57,loss hearing,75,84,88,71,52,2,loss hearing,Patient_304
+85,22,40,66,81,45,loss hearing,56,80,61,55,19,62,loss hearing,Patient_305
+99,76,11,45,96,3,loss hearing,32,53,64,6,94,94,loss hearing,Patient_306
+55,99,96,69,69,53,loss hearing,33,57,58,45,91,25,loss hearing,Patient_307
+1,99,73,76,59,74,loss hearing,65,26,49,16,86,35,loss hearing,Patient_308
+23,65,87,44,56,79,loss hearing,93,33,78,80,60,7,loss hearing,Patient_309
+4,97,81,23,48,11,loss hearing,33,100,53,31,80,16,loss hearing,Patient_310
+64,62,70,19,67,54,loss hearing,1,8,85,88,97,8,loss hearing,Patient_311
+29,17,75,73,71,54,loss hearing,21,53,16,64,75,40,loss hearing,Patient_312
+45,33,48,33,64,15,normal,47,80,25,91,8,83,loss hearing,Patient_313
+53,81,6,80,18,0,normal,35,50,77,44,14,47,loss hearing,Patient_314
+5,77,30,28,40,9,normal,7,31,0,16,13,62,normal,Patient_315
+13,54,27,38,77,17,normal,78,57,78,93,100,51,loss hearing,Patient_316
+19,22,53,68,67,45,loss hearing,47,57,60,17,52,81,loss hearing,Patient_317
+38,80,75,4,21,14,normal,79,34,11,80,41,82,loss hearing,Patient_318
+63,4,59,98,94,91,loss hearing,1,25,91,4,95,85,loss hearing,Patient_319
+48,1,10,53,10,34,normal,7,8,21,86,4,0,normal,Patient_320
+18,75,79,19,16,98,loss hearing,30,4,47,2,81,57,normal,Patient_321
+85,65,92,84,19,33,loss hearing,24,24,51,23,37,28,normal,Patient_322
+82,79,10,66,96,26,loss hearing,88,22,61,11,25,25,normal,Patient_323
+43,5,41,93,85,29,loss hearing,50,18,70,10,26,58,normal,Patient_324
+6,27,23,37,4,44,normal,45,91,79,49,40,17,loss hearing,Patient_325
+46,8,54,24,47,33,normal,34,56,32,30,1,14,normal,Patient_326
+98,91,39,61,78,63,loss hearing,79,7,12,91,78,3,loss hearing,Patient_327
+84,69,56,21,17,1,loss hearing,71,7,31,59,52,81,loss hearing,Patient_328
+28,0,71,74,90,77,loss hearing,72,76,99,14,46,25,loss hearing,Patient_329
+26,18,77,10,42,20,normal,35,20,87,79,20,32,loss hearing,Patient_330
+65,0,45,71,25,69,loss hearing,4,19,77,94,69,44,loss hearing,Patient_331
+32,10,28,42,32,75,normal,38,55,80,84,58,40,loss hearing,Patient_332
+4,39,35,25,28,38,normal,0,47,64,76,93,12,loss hearing,Patient_333
+21,29,76,22,40,64,loss hearing,90,74,94,11,80,99,loss hearing,Patient_334
+43,69,80,97,1,96,loss hearing,97,66,94,25,38,71,loss hearing,Patient_335
+3,99,77,61,51,74,loss hearing,33,28,88,55,4,79,loss hearing,Patient_336
+85,3,93,2,100,10,loss hearing,19,16,14,80,50,33,normal,Patient_337
+39,97,41,77,65,37,loss hearing,83,53,2,72,58,93,loss hearing,Patient_338
+92,65,50,16,64,15,loss hearing,66,75,21,4,49,93,loss hearing,Patient_339
+49,47,30,38,60,6,normal,5,78,47,86,9,73,loss hearing,Patient_340
+22,59,10,54,95,30,loss hearing,48,47,21,31,4,54,normal,Patient_341
+59,49,26,44,59,36,loss hearing,22,13,38,28,30,78,normal,Patient_342
+52,31,88,35,55,42,loss hearing,66,22,79,11,73,50,loss hearing,Patient_343
+23,58,93,5,90,98,loss hearing,98,9,60,72,45,40,loss hearing,Patient_344
+61,28,38,41,28,47,loss hearing,39,22,79,94,83,3,loss hearing,Patient_345
+14,19,74,42,14,66,normal,38,88,56,59,77,32,loss hearing,Patient_346
+41,93,72,4,59,54,loss hearing,79,52,5,70,27,83,loss hearing,Patient_347
+66,60,25,12,42,86,loss hearing,43,83,3,44,65,20,loss hearing,Patient_348
+29,96,54,54,35,56,loss hearing,79,43,48,16,6,8,normal,Patient_349
+91,48,60,93,2,61,loss hearing,68,18,92,36,26,24,loss hearing,Patient_350
+5,35,60,58,82,53,loss hearing,53,38,35,46,43,91,loss hearing,Patient_351
+50,42,91,39,39,80,loss hearing,94,79,98,9,7,27,loss hearing,Patient_352
+52,24,2,95,12,38,normal,96,61,7,39,13,85,loss hearing,Patient_353
+78,82,17,83,7,73,loss hearing,70,27,92,93,19,57,loss hearing,Patient_354
+36,67,13,20,83,89,loss hearing,98,69,34,11,51,58,loss hearing,Patient_355
+64,80,93,26,11,74,loss hearing,52,27,14,66,41,80,loss hearing,Patient_356
+83,68,60,81,0,89,loss hearing,84,30,62,20,82,90,loss hearing,Patient_357
+7,87,49,42,65,41,loss hearing,63,65,59,92,57,72,loss hearing,Patient_358
+59,100,42,99,78,42,loss hearing,4,24,98,91,99,98,loss hearing,Patient_359
+47,57,85,77,41,69,loss hearing,15,60,11,87,83,31,loss hearing,Patient_360
+2,72,15,11,34,6,normal,85,71,51,43,8,88,loss hearing,Patient_361
+82,92,43,37,64,4,loss hearing,85,89,98,34,45,12,loss hearing,Patient_362
+35,43,79,67,79,78,loss hearing,76,64,42,1,55,36,loss hearing,Patient_363
+7,45,48,11,55,84,loss hearing,23,54,62,71,11,17,normal,Patient_364
+46,81,31,85,95,85,loss hearing,10,11,83,17,17,55,normal,Patient_365
+65,57,22,70,91,80,loss hearing,78,59,6,38,46,18,loss hearing,Patient_366
+14,99,60,22,51,49,loss hearing,37,32,33,91,15,99,loss hearing,Patient_367
+22,0,97,22,1,62,normal,47,20,56,68,68,48,loss hearing,Patient_368
+95,57,11,58,88,71,loss hearing,33,8,57,7,58,83,loss hearing,Patient_369
+25,3,17,53,18,37,normal,86,32,7,18,52,66,loss hearing,Patient_370
+76,45,70,19,91,96,loss hearing,12,30,76,45,75,17,loss hearing,Patient_371
+79,10,36,45,22,50,loss hearing,90,11,57,86,40,81,loss hearing,Patient_372
+8,3,46,38,87,8,normal,83,11,78,32,91,15,loss hearing,Patient_373
+26,50,24,86,30,84,loss hearing,44,53,18,44,12,0,normal,Patient_374
+11,47,63,85,76,29,loss hearing,66,32,10,10,44,15,normal,Patient_375
+85,71,59,28,67,27,loss hearing,13,82,47,12,40,79,loss hearing,Patient_376
+68,0,59,10,62,52,loss hearing,49,17,22,12,80,66,loss hearing,Patient_377
+75,59,45,49,29,75,loss hearing,97,56,81,41,35,67,loss hearing,Patient_378
+25,31,10,94,79,42,loss hearing,65,39,82,35,73,42,loss hearing,Patient_379
+9,93,11,68,44,100,loss hearing,6,85,58,71,93,91,loss hearing,Patient_380
+85,17,77,17,38,88,loss hearing,71,80,14,98,33,82,loss hearing,Patient_381
+94,34,36,24,52,11,loss hearing,44,45,20,63,52,85,loss hearing,Patient_382
+15,27,47,15,45,81,normal,10,38,44,93,44,76,loss hearing,Patient_383
+48,82,51,36,61,77,loss hearing,83,100,36,49,97,81,loss hearing,Patient_384
+75,36,22,56,80,14,loss hearing,77,36,14,44,62,83,loss hearing,Patient_385
+62,76,27,97,60,100,loss hearing,45,56,91,24,79,3,loss hearing,Patient_386
+27,84,65,93,44,94,loss hearing,60,88,22,9,3,14,normal,Patient_387
+54,85,69,33,39,50,loss hearing,28,63,92,95,10,53,loss hearing,Patient_388
+9,77,76,98,26,65,loss hearing,31,57,42,69,38,57,loss hearing,Patient_389
+46,63,86,95,0,95,loss hearing,70,92,91,23,68,76,loss hearing,Patient_390
+90,56,50,64,93,78,loss hearing,24,83,91,23,38,91,loss hearing,Patient_391
+38,4,9,85,6,32,normal,99,33,7,41,34,32,loss hearing,Patient_392
+88,71,20,77,24,61,loss hearing,94,72,37,73,46,81,loss hearing,Patient_393
+68,10,87,15,96,93,loss hearing,28,18,88,97,48,44,loss hearing,Patient_394
+28,64,96,65,17,80,loss hearing,7,15,27,94,38,72,loss hearing,Patient_395
+15,76,4,61,0,51,normal,65,44,46,78,4,68,loss hearing,Patient_396
+82,58,66,24,46,91,loss hearing,67,33,65,5,99,80,loss hearing,Patient_397
+0,88,58,45,47,45,loss hearing,76,12,54,39,22,67,loss hearing,Patient_398
+87,15,85,11,34,11,loss hearing,25,16,3,100,76,49,loss hearing,Patient_399
+55,87,90,92,87,81,loss hearing,55,94,53,78,25,51,loss hearing,Patient_400
+79,78,97,64,7,40,loss hearing,64,25,3,67,63,4,normal,Patient_401
+59,77,87,35,93,6,loss hearing,31,21,22,16,61,10,normal,Patient_402
+36,10,20,67,48,9,normal,90,24,6,69,11,93,loss hearing,Patient_403
+85,30,95,23,95,47,loss hearing,18,99,5,7,89,5,normal,Patient_404
+85,59,86,47,76,96,loss hearing,81,43,33,23,100,18,loss hearing,Patient_405
+90,26,22,33,20,13,normal,57,76,14,46,48,28,loss hearing,Patient_406
+30,21,20,30,59,37,normal,63,93,45,17,14,67,loss hearing,Patient_407
+75,70,91,99,70,38,loss hearing,74,35,78,52,59,19,loss hearing,Patient_408
+98,23,43,98,31,11,loss hearing,38,34,38,94,9,68,loss hearing,Patient_409
+1,74,16,4,23,98,normal,36,57,100,69,76,69,loss hearing,Patient_410
+52,88,63,73,81,63,loss hearing,63,36,27,71,75,46,loss hearing,Patient_411
+37,19,24,35,100,42,loss hearing,53,36,32,80,5,45,loss hearing,Patient_412
+7,83,19,67,71,78,loss hearing,90,72,99,51,30,76,loss hearing,Patient_413
+95,41,3,6,6,90,loss hearing,73,13,71,26,78,9,loss hearing,Patient_414
+32,13,95,86,14,3,loss hearing,75,98,66,26,22,74,loss hearing,Patient_415
+93,15,21,40,87,28,loss hearing,67,73,31,32,6,23,normal,Patient_416
+64,66,77,62,20,48,loss hearing,1,55,52,98,47,45,loss hearing,Patient_417
+22,17,12,93,85,54,loss hearing,30,91,54,12,56,36,loss hearing,Patient_418
+66,96,66,48,19,57,loss hearing,41,4,68,21,100,17,loss hearing,Patient_419
+23,16,85,62,69,72,loss hearing,26,61,79,50,41,67,loss hearing,Patient_420
+97,5,79,89,71,44,loss hearing,75,75,12,80,33,10,loss hearing,Patient_421
+77,44,71,34,75,90,loss hearing,77,58,74,92,37,25,loss hearing,Patient_422
+5,40,100,29,33,22,normal,71,50,92,27,26,38,loss hearing,Patient_423
+4,50,15,30,15,95,normal,16,42,28,38,30,60,normal,Patient_424
+40,86,65,16,3,42,loss hearing,49,70,49,61,73,6,loss hearing,Patient_425
+95,37,80,35,44,57,loss hearing,3,57,8,23,39,95,normal,Patient_426
+25,59,52,26,69,38,loss hearing,68,89,48,72,85,17,loss hearing,Patient_427
+17,92,53,99,62,92,loss hearing,59,35,25,55,35,67,loss hearing,Patient_428
+53,69,64,96,50,37,loss hearing,59,89,44,57,52,74,loss hearing,Patient_429
+27,73,99,56,77,46,loss hearing,32,14,62,62,65,0,normal,Patient_430
+97,94,32,81,71,22,loss hearing,17,21,59,85,94,95,loss hearing,Patient_431
+61,8,46,52,17,31,normal,49,28,29,63,86,14,loss hearing,Patient_432
+82,45,3,88,65,50,loss hearing,83,83,10,45,34,64,loss hearing,Patient_433
+31,52,46,44,80,14,loss hearing,11,64,73,25,85,1,loss hearing,Patient_434
+4,36,56,3,27,96,normal,38,45,9,7,35,81,normal,Patient_435
+0,18,59,62,44,13,normal,60,41,54,39,48,64,loss hearing,Patient_436
+94,66,55,62,35,22,loss hearing,65,36,16,78,19,65,loss hearing,Patient_437
+18,82,67,82,33,75,loss hearing,14,43,7,29,37,85,normal,Patient_438
+2,89,44,84,92,26,loss hearing,16,68,45,87,46,54,loss hearing,Patient_439
+92,78,59,28,41,50,loss hearing,41,82,39,72,42,65,loss hearing,Patient_440
+31,3,51,12,38,10,normal,90,14,51,71,4,6,normal,Patient_441
+79,5,33,78,50,51,loss hearing,13,94,83,90,72,14,loss hearing,Patient_442
+65,17,53,100,11,70,loss hearing,59,59,38,14,71,34,loss hearing,Patient_443
+94,77,63,74,17,45,loss hearing,89,82,73,17,36,2,loss hearing,Patient_444
+78,59,38,10,20,71,loss hearing,48,48,67,41,92,79,loss hearing,Patient_445
+96,79,99,93,63,56,loss hearing,70,44,96,59,98,41,loss hearing,Patient_446
+35,94,4,10,100,80,loss hearing,76,6,15,54,50,35,normal,Patient_447
+66,30,98,89,13,99,loss hearing,76,80,52,40,41,98,loss hearing,Patient_448
+57,14,77,5,6,49,normal,31,28,64,37,22,1,normal,Patient_449
+73,56,5,31,90,53,loss hearing,22,30,99,25,62,3,loss hearing,Patient_450
+40,80,80,77,21,60,loss hearing,75,92,65,18,87,25,loss hearing,Patient_451
+47,28,89,25,99,8,loss hearing,93,44,99,60,40,13,loss hearing,Patient_452
+52,17,85,61,59,0,loss hearing,68,34,68,99,62,29,loss hearing,Patient_453
+50,27,7,61,78,93,loss hearing,90,53,63,26,11,54,loss hearing,Patient_454
+57,87,77,15,39,46,loss hearing,50,94,90,44,2,43,loss hearing,Patient_455
+25,85,19,42,53,16,loss hearing,34,14,60,89,85,29,loss hearing,Patient_456
+33,71,10,56,6,64,loss hearing,36,68,64,55,8,92,loss hearing,Patient_457
+53,18,91,62,43,26,loss hearing,58,96,88,41,76,88,loss hearing,Patient_458
+37,38,74,71,57,100,loss hearing,13,74,67,82,57,27,loss hearing,Patient_459
+97,50,10,54,29,6,loss hearing,80,82,15,87,41,50,loss hearing,Patient_460
+58,20,89,90,18,76,loss hearing,0,51,61,67,53,33,loss hearing,Patient_461
+3,66,16,47,80,41,loss hearing,85,45,47,49,12,92,loss hearing,Patient_462
+23,96,20,91,19,17,loss hearing,96,53,86,86,72,10,loss hearing,Patient_463
+26,57,89,55,67,80,loss hearing,34,71,19,98,8,33,loss hearing,Patient_464
+75,40,44,50,90,37,loss hearing,66,97,2,76,61,15,loss hearing,Patient_465
+90,72,97,41,46,25,loss hearing,91,33,62,29,75,96,loss hearing,Patient_466
+33,90,1,66,21,100,loss hearing,38,30,71,69,80,88,loss hearing,Patient_467
+68,27,46,97,58,78,loss hearing,90,4,32,68,16,20,normal,Patient_468
+45,30,45,53,67,43,loss hearing,99,38,81,98,88,44,loss hearing,Patient_469
+11,94,47,11,70,43,loss hearing,31,6,67,90,43,95,loss hearing,Patient_470
+62,93,32,69,92,94,loss hearing,19,43,66,25,3,47,normal,Patient_471
+21,33,100,62,13,16,loss hearing,35,72,90,21,4,46,loss hearing,Patient_472
+68,38,45,41,63,89,loss hearing,14,89,43,35,6,2,normal,Patient_473
+50,30,99,83,17,95,loss hearing,8,86,29,52,44,98,loss hearing,Patient_474
+46,66,33,72,100,80,loss hearing,10,75,29,82,23,100,loss hearing,Patient_475
+84,3,24,33,58,20,normal,8,68,32,36,76,82,loss hearing,Patient_476
+68,33,70,61,49,92,loss hearing,75,98,10,14,31,13,loss hearing,Patient_477
+95,98,72,72,64,9,loss hearing,66,60,65,19,98,54,loss hearing,Patient_478
+64,94,84,18,60,38,loss hearing,55,50,93,4,21,100,loss hearing,Patient_479
+34,16,77,12,88,71,loss hearing,2,61,7,35,10,84,normal,Patient_480
+49,21,90,24,20,87,loss hearing,39,30,26,14,20,92,normal,Patient_481
+99,77,19,37,88,75,loss hearing,53,23,8,43,1,79,normal,Patient_482
+30,30,37,26,44,33,normal,87,1,4,10,31,45,normal,Patient_483
+79,43,83,84,28,39,loss hearing,2,31,72,5,31,24,normal,Patient_484
+93,33,86,33,88,91,loss hearing,60,92,52,65,56,4,loss hearing,Patient_485
+99,60,94,65,96,11,loss hearing,64,45,79,50,62,36,loss hearing,Patient_486
+52,5,23,65,91,15,loss hearing,70,16,28,69,16,75,loss hearing,Patient_487
+49,99,69,61,22,71,loss hearing,10,15,16,20,94,12,normal,Patient_488
+67,70,17,13,32,42,loss hearing,64,79,14,6,52,25,loss hearing,Patient_489
+54,74,87,29,53,39,loss hearing,66,0,60,81,52,62,loss hearing,Patient_490
+18,33,51,38,44,8,normal,13,44,42,98,44,50,loss hearing,Patient_491
+29,31,30,54,62,98,loss hearing,87,94,56,10,26,82,loss hearing,Patient_492
+3,3,46,95,89,81,loss hearing,14,35,25,19,77,57,normal,Patient_493
+94,51,11,22,1,2,normal,85,17,33,3,81,0,normal,Patient_494
+99,4,49,75,73,56,loss hearing,83,38,9,38,76,10,loss hearing,Patient_495
+47,70,39,58,68,88,loss hearing,5,87,82,96,5,98,loss hearing,Patient_496
+79,21,4,59,58,94,loss hearing,72,92,59,22,91,13,loss hearing,Patient_497
+10,81,66,43,9,92,loss hearing,63,32,38,67,32,97,loss hearing,Patient_498
+20,18,8,98,73,17,normal,41,75,11,74,25,33,loss hearing,Patient_499
+38,91,35,81,23,65,loss hearing,94,78,61,96,98,85,loss hearing,Patient_500
+77,77,8,36,65,16,loss hearing,0,17,1,57,78,47,normal,Patient_501
+99,30,32,71,43,77,loss hearing,58,61,38,65,26,12,loss hearing,Patient_502
+34,74,47,99,3,51,loss hearing,96,12,55,69,62,94,loss hearing,Patient_503
+99,4,50,7,60,59,loss hearing,15,71,54,33,74,4,loss hearing,Patient_504
+32,28,11,96,53,18,normal,93,79,88,64,53,94,loss hearing,Patient_505
+24,3,90,15,59,84,loss hearing,42,63,26,24,22,47,normal,Patient_506
+25,50,79,88,36,75,loss hearing,5,31,89,0,82,21,normal,Patient_507
+8,28,92,97,71,45,loss hearing,87,29,29,38,90,85,loss hearing,Patient_508
+15,49,24,75,51,54,loss hearing,14,18,45,53,99,31,loss hearing,Patient_509
+7,56,13,93,98,52,loss hearing,80,18,35,46,47,89,loss hearing,Patient_510
+62,5,97,12,90,19,loss hearing,1,36,74,8,88,64,loss hearing,Patient_511
+38,47,32,28,57,85,loss hearing,58,64,60,9,35,7,normal,Patient_512
+99,59,95,58,91,85,loss hearing,31,75,36,75,58,86,loss hearing,Patient_513
+45,5,71,30,27,96,loss hearing,92,3,80,69,55,69,loss hearing,Patient_514
+68,83,82,57,65,30,loss hearing,93,14,64,94,39,24,loss hearing,Patient_515
+33,87,71,98,39,53,loss hearing,92,11,64,13,52,47,loss hearing,Patient_516
+10,0,96,66,90,89,loss hearing,4,14,67,96,11,11,normal,Patient_517
+14,79,95,38,41,98,loss hearing,45,48,3,85,26,23,normal,Patient_518
+7,21,87,21,6,17,normal,81,3,74,95,98,31,loss hearing,Patient_519
+47,76,13,50,50,70,loss hearing,33,73,79,32,47,30,loss hearing,Patient_520
+92,44,95,59,26,26,loss hearing,36,73,29,52,60,6,loss hearing,Patient_521
+81,66,92,59,49,39,loss hearing,13,80,20,77,62,71,loss hearing,Patient_522
+59,20,72,12,39,46,loss hearing,87,95,71,71,98,88,loss hearing,Patient_523
+20,28,39,59,84,42,loss hearing,20,64,75,54,35,42,loss hearing,Patient_524
+50,58,90,49,25,90,loss hearing,62,27,43,34,45,6,normal,Patient_525
+97,80,64,3,89,7,loss hearing,14,84,68,47,47,84,loss hearing,Patient_526
+73,76,4,54,17,94,loss hearing,11,61,4,96,30,100,loss hearing,Patient_527
+96,79,42,6,41,81,loss hearing,52,89,44,79,63,85,loss hearing,Patient_528
+18,71,83,17,51,89,loss hearing,81,78,26,62,68,26,loss hearing,Patient_529
+22,38,57,10,68,86,loss hearing,70,44,76,45,19,79,loss hearing,Patient_530
+17,71,88,89,58,17,loss hearing,47,33,96,46,24,62,loss hearing,Patient_531
+27,9,82,51,68,55,loss hearing,21,68,9,85,56,98,loss hearing,Patient_532
+87,28,59,95,99,58,loss hearing,93,4,22,33,29,90,loss hearing,Patient_533
+70,65,2,48,38,27,loss hearing,70,6,24,96,21,77,loss hearing,Patient_534
+84,96,2,89,69,27,loss hearing,85,63,9,24,17,94,loss hearing,Patient_535
+76,75,55,26,85,63,loss hearing,79,81,90,21,91,99,loss hearing,Patient_536
+25,49,23,82,79,92,loss hearing,52,100,88,23,32,90,loss hearing,Patient_537
+20,77,31,98,92,98,loss hearing,67,27,92,26,12,7,normal,Patient_538
+89,87,94,39,42,46,loss hearing,82,5,22,96,1,16,normal,Patient_539
+70,15,49,74,63,10,loss hearing,66,76,89,5,57,93,loss hearing,Patient_540
+72,16,14,66,9,99,loss hearing,23,71,67,9,25,47,loss hearing,Patient_541
+17,37,68,78,98,41,loss hearing,96,62,40,50,77,87,loss hearing,Patient_542
+2,65,95,39,4,41,loss hearing,54,85,100,27,92,62,loss hearing,Patient_543
+37,22,40,89,77,7,loss hearing,71,33,89,57,58,77,loss hearing,Patient_544
+96,21,2,19,33,25,normal,48,21,36,80,26,89,loss hearing,Patient_545
+19,63,2,4,67,32,normal,82,30,34,77,73,38,loss hearing,Patient_546
+16,47,53,58,12,30,normal,48,24,99,56,19,91,loss hearing,Patient_547
+23,35,95,75,21,0,loss hearing,97,78,13,68,71,44,loss hearing,Patient_548
+38,56,20,74,24,97,loss hearing,41,49,48,1,52,10,normal,Patient_549
+20,91,85,6,22,98,loss hearing,100,25,28,20,8,44,normal,Patient_550
+52,35,20,51,29,64,loss hearing,37,40,3,93,17,84,loss hearing,Patient_551
+34,34,82,47,100,80,loss hearing,66,68,81,100,33,86,loss hearing,Patient_552
+51,49,18,8,64,2,normal,80,89,64,81,80,62,loss hearing,Patient_553
+19,42,54,92,39,60,loss hearing,95,31,88,73,94,69,loss hearing,Patient_554
+4,7,15,80,66,65,normal,37,21,17,15,9,10,normal,Patient_555
+42,47,96,19,62,42,loss hearing,56,17,6,50,71,54,loss hearing,Patient_556
+54,3,60,57,98,33,loss hearing,33,50,5,1,15,52,normal,Patient_557
+93,59,13,54,83,83,loss hearing,82,99,72,100,82,7,loss hearing,Patient_558
+4,5,19,19,1,90,normal,41,31,46,98,31,18,loss hearing,Patient_559
+44,77,33,95,61,1,loss hearing,45,19,80,52,56,24,loss hearing,Patient_560
+41,67,17,3,77,37,loss hearing,47,65,40,31,34,53,loss hearing,Patient_561
+71,95,38,48,46,16,loss hearing,62,39,46,39,41,90,loss hearing,Patient_562
+61,9,67,10,98,78,loss hearing,20,78,96,15,2,6,normal,Patient_563
+70,11,27,54,43,68,loss hearing,59,23,60,73,25,56,loss hearing,Patient_564
+39,40,77,29,85,25,loss hearing,73,49,43,24,14,48,loss hearing,Patient_565
+18,90,93,90,58,100,loss hearing,88,60,64,49,40,82,loss hearing,Patient_566
+40,27,54,86,37,44,loss hearing,62,82,62,3,64,6,loss hearing,Patient_567
+92,1,81,6,32,65,loss hearing,61,20,73,64,21,6,loss hearing,Patient_568
+42,40,45,26,25,49,normal,62,5,72,21,64,77,loss hearing,Patient_569
+60,82,38,62,84,70,loss hearing,5,72,74,22,57,58,loss hearing,Patient_570
+97,23,58,32,40,64,loss hearing,59,16,45,24,46,73,loss hearing,Patient_571
+27,65,46,35,76,44,loss hearing,87,11,60,79,8,60,loss hearing,Patient_572
+45,15,14,26,94,95,loss hearing,95,21,44,67,84,52,loss hearing,Patient_573
+95,90,54,44,60,59,loss hearing,9,55,65,68,40,17,loss hearing,Patient_574
+20,86,55,74,49,46,loss hearing,100,55,59,13,18,90,loss hearing,Patient_575
+33,40,50,43,60,92,loss hearing,70,20,2,15,71,11,normal,Patient_576
+76,65,26,22,81,61,loss hearing,51,89,71,41,80,68,loss hearing,Patient_577
+82,35,97,32,19,58,loss hearing,67,6,3,10,88,21,normal,Patient_578
+65,43,100,18,15,32,loss hearing,20,35,94,62,55,85,loss hearing,Patient_579
+74,27,64,19,80,0,loss hearing,76,62,87,99,41,11,loss hearing,Patient_580
+67,72,52,39,19,12,loss hearing,11,21,28,14,6,99,normal,Patient_581
+69,61,85,34,34,11,loss hearing,78,48,13,28,60,13,loss hearing,Patient_582
+82,93,17,46,72,54,loss hearing,79,62,16,27,58,35,loss hearing,Patient_583
+63,7,6,86,13,25,normal,83,3,74,26,83,95,loss hearing,Patient_584
+84,74,100,7,70,0,loss hearing,4,91,77,4,76,68,loss hearing,Patient_585
+54,65,93,35,30,7,loss hearing,66,20,17,1,32,99,normal,Patient_586
+86,43,77,79,15,3,loss hearing,8,92,16,75,50,51,loss hearing,Patient_587
+48,43,70,79,82,12,loss hearing,35,18,17,49,93,76,loss hearing,Patient_588
+70,12,17,28,0,17,normal,35,57,73,61,27,42,loss hearing,Patient_589
+81,100,40,20,23,33,loss hearing,18,29,84,77,31,30,loss hearing,Patient_590
+100,64,64,40,38,28,loss hearing,94,29,93,60,13,14,loss hearing,Patient_591
+66,95,3,43,53,96,loss hearing,16,33,45,50,39,66,loss hearing,Patient_592
+0,91,87,19,64,30,loss hearing,49,36,23,89,74,73,loss hearing,Patient_593
+44,2,1,68,1,81,normal,54,21,39,35,74,1,normal,Patient_594
+96,64,19,39,88,13,loss hearing,93,73,73,27,82,4,loss hearing,Patient_595
+20,17,86,19,32,50,normal,86,96,35,55,67,66,loss hearing,Patient_596
+2,99,61,55,88,19,loss hearing,97,3,31,68,20,15,normal,Patient_597
+19,62,30,84,74,63,loss hearing,33,11,34,22,60,67,normal,Patient_598
+89,93,51,19,94,20,loss hearing,41,37,73,55,59,11,loss hearing,Patient_599
+19,48,89,40,42,63,loss hearing,10,42,50,51,26,52,normal,Patient_600
+78,72,71,43,46,51,loss hearing,25,57,25,93,23,66,loss hearing,Patient_601
+73,7,35,44,51,61,loss hearing,25,52,41,97,22,30,loss hearing,Patient_602
+57,84,64,93,44,3,loss hearing,56,13,62,25,67,98,loss hearing,Patient_603
+11,36,46,60,41,73,loss hearing,76,86,0,53,89,28,loss hearing,Patient_604
+91,70,5,25,80,95,loss hearing,20,25,7,32,94,49,normal,Patient_605
+17,64,85,6,90,81,loss hearing,61,9,38,18,63,36,normal,Patient_606
+2,79,5,54,6,24,normal,16,22,94,58,18,7,normal,Patient_607
+44,78,28,17,98,1,loss hearing,58,83,32,5,67,81,loss hearing,Patient_608
+11,42,66,35,65,64,loss hearing,86,18,80,94,36,24,loss hearing,Patient_609
+70,54,59,80,43,6,loss hearing,8,47,3,73,32,17,normal,Patient_610
+50,43,52,79,87,37,loss hearing,77,22,91,91,68,43,loss hearing,Patient_611
+38,74,58,25,5,49,loss hearing,66,73,30,57,56,80,loss hearing,Patient_612
+80,5,31,91,23,88,loss hearing,38,48,77,72,72,12,loss hearing,Patient_613
+97,90,40,96,79,43,loss hearing,70,24,43,82,40,69,loss hearing,Patient_614
+54,38,96,81,35,50,loss hearing,37,13,32,21,97,81,loss hearing,Patient_615
+85,61,100,25,11,100,loss hearing,65,15,82,25,15,52,loss hearing,Patient_616
+42,89,42,3,10,3,normal,80,16,50,87,52,88,loss hearing,Patient_617
+96,38,99,6,21,0,loss hearing,22,67,56,59,12,79,loss hearing,Patient_618
+62,62,43,38,49,91,loss hearing,55,17,14,28,84,39,normal,Patient_619
+62,32,5,72,38,13,normal,52,23,88,89,50,73,loss hearing,Patient_620
+76,17,19,64,44,1,normal,50,32,53,65,99,19,loss hearing,Patient_621
+61,7,89,94,79,50,loss hearing,43,22,93,29,49,76,loss hearing,Patient_622
+29,32,10,35,23,9,normal,15,29,42,86,65,78,loss hearing,Patient_623
+6,98,76,91,0,7,loss hearing,99,37,10,80,22,52,loss hearing,Patient_624
+23,83,29,56,89,71,loss hearing,65,41,67,77,41,85,loss hearing,Patient_625
+34,35,63,79,31,37,loss hearing,45,91,38,27,51,45,loss hearing,Patient_626
+81,22,38,87,64,6,loss hearing,23,45,28,8,31,48,normal,Patient_627
+29,25,40,59,89,37,loss hearing,60,1,28,10,13,8,normal,Patient_628
+34,88,98,61,6,61,loss hearing,57,43,42,100,94,91,loss hearing,Patient_629
+18,84,69,6,69,18,loss hearing,70,56,93,4,47,26,loss hearing,Patient_630
+53,8,29,62,5,7,normal,23,51,14,67,75,34,loss hearing,Patient_631
+82,18,95,31,78,74,loss hearing,83,25,93,13,14,43,loss hearing,Patient_632
+8,26,16,21,57,17,normal,50,52,67,14,6,18,normal,Patient_633
+98,17,26,18,70,95,loss hearing,26,59,61,20,22,12,normal,Patient_634
+65,13,51,54,55,74,loss hearing,72,61,27,7,72,61,loss hearing,Patient_635
+12,13,6,30,12,61,normal,96,88,1,15,45,86,loss hearing,Patient_636
+94,60,51,87,2,70,loss hearing,57,76,30,84,5,3,loss hearing,Patient_637
+57,96,92,19,77,26,loss hearing,54,32,52,91,86,54,loss hearing,Patient_638
+20,10,47,38,88,84,loss hearing,10,3,90,90,47,98,loss hearing,Patient_639
+88,72,99,20,94,61,loss hearing,13,61,66,84,87,66,loss hearing,Patient_640
+3,33,14,83,81,45,loss hearing,18,91,91,63,2,36,loss hearing,Patient_641
+14,16,39,28,87,19,normal,51,100,5,10,73,66,loss hearing,Patient_642
+44,18,48,27,71,76,loss hearing,29,74,11,60,72,49,loss hearing,Patient_643
+33,49,20,10,50,40,normal,21,99,47,13,36,71,loss hearing,Patient_644
+99,16,2,19,95,26,loss hearing,68,16,69,27,35,9,normal,Patient_645
+45,27,15,84,19,48,normal,25,28,14,63,8,15,normal,Patient_646
+98,7,17,27,95,93,loss hearing,71,22,32,5,3,39,normal,Patient_647
+65,93,50,89,31,6,loss hearing,2,94,78,15,95,32,loss hearing,Patient_648
+20,12,36,15,72,73,normal,98,80,3,46,66,100,loss hearing,Patient_649
+22,62,41,56,42,82,loss hearing,12,63,61,52,35,71,loss hearing,Patient_650
+47,97,23,97,89,48,loss hearing,24,54,61,18,59,14,normal,Patient_651
+1,57,53,89,39,96,loss hearing,21,43,38,83,56,33,loss hearing,Patient_652
+78,52,3,19,71,96,loss hearing,97,45,95,47,93,62,loss hearing,Patient_653
+32,25,3,51,0,19,normal,6,72,90,100,76,47,loss hearing,Patient_654
+8,8,63,22,87,88,loss hearing,2,1,74,64,50,60,loss hearing,Patient_655
+23,41,87,63,86,43,loss hearing,97,68,76,69,85,44,loss hearing,Patient_656
+2,0,5,0,88,64,normal,84,32,23,39,5,78,loss hearing,Patient_657
+74,53,63,11,15,100,loss hearing,44,89,1,60,36,93,loss hearing,Patient_658
+25,24,25,50,63,96,loss hearing,42,73,7,14,7,59,normal,Patient_659
+81,64,79,61,6,100,loss hearing,99,22,26,66,38,62,loss hearing,Patient_660
+26,83,68,18,6,39,loss hearing,90,57,82,87,71,20,loss hearing,Patient_661
+53,62,77,9,66,62,loss hearing,23,18,76,34,1,58,normal,Patient_662
+1,48,70,74,21,76,loss hearing,52,17,20,20,33,27,normal,Patient_663
+56,80,5,65,18,66,loss hearing,6,42,91,12,9,17,normal,Patient_664
+44,54,59,99,17,28,loss hearing,69,59,76,2,30,49,loss hearing,Patient_665
+70,91,86,1,19,44,loss hearing,63,53,19,15,25,77,loss hearing,Patient_666
+0,18,79,84,7,70,loss hearing,97,49,36,27,62,95,loss hearing,Patient_667
+28,98,32,38,40,46,loss hearing,86,15,2,4,92,44,loss hearing,Patient_668
+61,50,81,37,3,69,loss hearing,45,21,6,15,75,61,normal,Patient_669
+74,24,56,14,93,73,loss hearing,81,45,90,93,0,44,loss hearing,Patient_670
+92,87,50,91,48,64,loss hearing,83,24,6,82,10,50,loss hearing,Patient_671
+94,63,47,100,11,90,loss hearing,81,55,97,79,71,36,loss hearing,Patient_672
+71,14,38,43,58,77,loss hearing,30,44,63,3,0,39,normal,Patient_673
+100,60,69,14,40,81,loss hearing,32,59,96,67,58,14,loss hearing,Patient_674
+63,28,20,73,35,9,normal,37,49,17,81,76,51,loss hearing,Patient_675
+93,85,42,84,8,72,loss hearing,88,61,87,33,99,96,loss hearing,Patient_676
+3,26,69,89,91,99,loss hearing,41,21,65,13,1,77,normal,Patient_677
+5,56,22,22,95,19,normal,91,99,34,22,78,33,loss hearing,Patient_678
+25,39,97,81,9,59,loss hearing,89,47,4,77,34,37,loss hearing,Patient_679
+48,33,29,69,74,93,loss hearing,73,40,86,98,73,46,loss hearing,Patient_680
+18,80,14,61,25,49,loss hearing,86,52,62,93,84,75,loss hearing,Patient_681
+95,30,90,87,86,76,loss hearing,62,24,81,19,95,37,loss hearing,Patient_682
+90,97,12,34,94,60,loss hearing,5,28,12,76,70,94,loss hearing,Patient_683
+89,82,94,85,81,59,loss hearing,85,30,56,50,72,44,loss hearing,Patient_684
+93,57,13,59,2,72,loss hearing,62,87,35,61,36,12,loss hearing,Patient_685
+41,28,100,38,27,73,loss hearing,25,60,55,12,67,96,loss hearing,Patient_686
+64,8,79,58,83,69,loss hearing,65,79,11,26,29,84,loss hearing,Patient_687
+3,67,86,83,29,12,loss hearing,23,24,65,54,32,55,loss hearing,Patient_688
+69,91,97,29,19,9,loss hearing,85,17,1,29,91,96,loss hearing,Patient_689
+29,60,61,1,90,53,loss hearing,70,32,21,10,20,56,normal,Patient_690
+70,63,54,67,7,52,loss hearing,27,57,66,70,83,70,loss hearing,Patient_691
+39,89,56,95,19,68,loss hearing,48,67,20,100,54,87,loss hearing,Patient_692
+24,56,66,21,58,20,loss hearing,73,16,8,92,11,73,loss hearing,Patient_693
+24,44,77,4,44,95,loss hearing,95,67,25,12,54,65,loss hearing,Patient_694
+25,100,52,98,40,51,loss hearing,0,24,67,100,1,65,loss hearing,Patient_695
+32,47,41,53,46,8,normal,92,42,90,51,40,74,loss hearing,Patient_696
+67,42,97,11,47,21,loss hearing,57,85,13,3,91,82,loss hearing,Patient_697
+45,29,2,39,53,60,normal,15,85,8,47,9,81,loss hearing,Patient_698
+47,66,34,67,38,29,loss hearing,40,59,63,4,9,39,normal,Patient_699
+99,9,13,8,38,59,normal,97,65,75,27,47,3,loss hearing,Patient_700
+92,90,95,64,32,61,loss hearing,62,56,36,19,62,23,loss hearing,Patient_701
+5,29,90,95,4,69,loss hearing,9,63,78,56,53,41,loss hearing,Patient_702
+17,29,69,38,38,92,loss hearing,43,86,84,58,62,45,loss hearing,Patient_703
+14,96,42,43,40,53,loss hearing,21,32,68,61,98,70,loss hearing,Patient_704
+9,77,96,100,57,76,loss hearing,1,51,69,84,94,43,loss hearing,Patient_705
+33,8,19,25,55,74,normal,26,21,51,29,14,15,normal,Patient_706
+4,41,12,22,77,25,normal,71,84,4,33,35,69,loss hearing,Patient_707
+17,44,42,25,70,96,loss hearing,96,83,50,55,40,28,loss hearing,Patient_708
+5,78,39,5,20,1,normal,62,44,85,11,30,58,loss hearing,Patient_709
+37,73,11,52,73,35,loss hearing,20,5,65,25,64,100,loss hearing,Patient_710
+64,19,90,34,1,28,normal,91,79,66,17,34,59,loss hearing,Patient_711
+39,17,54,60,12,35,normal,16,79,83,1,40,41,loss hearing,Patient_712
+21,86,19,29,22,73,loss hearing,9,4,32,87,21,11,normal,Patient_713
+79,12,2,78,18,38,normal,57,19,43,22,95,68,loss hearing,Patient_714
+50,37,4,45,82,30,loss hearing,81,48,43,33,45,96,loss hearing,Patient_715
+63,37,68,39,68,89,loss hearing,98,13,93,28,43,47,loss hearing,Patient_716
+19,64,85,17,70,11,loss hearing,66,87,44,40,74,49,loss hearing,Patient_717
+79,73,39,98,36,85,loss hearing,30,51,7,17,51,50,normal,Patient_718
+45,25,34,72,89,31,loss hearing,5,77,23,98,6,44,loss hearing,Patient_719
+96,64,18,4,35,20,normal,100,85,54,58,86,62,loss hearing,Patient_720
+39,56,20,53,59,64,loss hearing,36,83,28,85,20,14,loss hearing,Patient_721
+69,62,48,51,31,18,loss hearing,84,22,53,49,87,45,loss hearing,Patient_722
+66,48,39,14,18,29,normal,31,29,87,80,97,30,loss hearing,Patient_723
+38,18,59,94,43,54,loss hearing,27,21,98,73,52,21,loss hearing,Patient_724
+61,92,48,30,68,36,loss hearing,96,92,4,39,10,70,loss hearing,Patient_725
+1,69,100,12,45,40,loss hearing,6,30,45,33,33,18,normal,Patient_726
+43,50,52,66,9,66,loss hearing,17,25,59,79,22,31,normal,Patient_727
+13,92,51,9,55,83,loss hearing,55,34,21,21,68,18,normal,Patient_728
+92,24,28,90,0,99,loss hearing,34,66,38,35,95,74,loss hearing,Patient_729
+40,22,40,2,15,71,normal,16,25,95,18,44,44,loss hearing,Patient_730
+8,35,90,6,91,76,loss hearing,48,95,81,41,25,39,loss hearing,Patient_731
+44,57,25,12,8,46,normal,40,54,81,3,8,87,loss hearing,Patient_732
+58,94,26,98,2,86,loss hearing,54,88,6,60,74,21,loss hearing,Patient_733
+69,11,69,61,88,4,loss hearing,49,19,12,88,82,79,loss hearing,Patient_734
+46,47,93,46,2,32,loss hearing,70,49,47,34,92,61,loss hearing,Patient_735
+27,55,97,15,90,1,loss hearing,18,12,56,0,80,48,normal,Patient_736
+17,20,68,0,33,73,normal,59,28,83,70,21,50,loss hearing,Patient_737
+87,97,36,63,2,16,loss hearing,68,2,42,74,49,77,loss hearing,Patient_738
+81,14,60,44,80,23,loss hearing,64,65,21,5,60,7,normal,Patient_739
+44,87,58,14,82,51,loss hearing,34,95,74,90,36,98,loss hearing,Patient_740
+13,37,90,18,59,46,loss hearing,55,92,40,23,51,74,loss hearing,Patient_741
+9,82,48,34,42,53,loss hearing,51,66,20,66,54,66,loss hearing,Patient_742
+2,74,75,51,85,63,loss hearing,71,40,62,42,72,93,loss hearing,Patient_743
+35,84,24,19,88,95,loss hearing,22,36,24,68,92,44,loss hearing,Patient_744
+91,61,79,29,24,52,loss hearing,85,56,0,98,10,75,loss hearing,Patient_745
+53,69,52,25,28,52,loss hearing,89,10,37,91,99,96,loss hearing,Patient_746
+83,27,44,75,11,65,loss hearing,6,79,4,37,91,56,loss hearing,Patient_747
+4,58,6,93,82,28,loss hearing,65,72,69,48,79,31,loss hearing,Patient_748
+46,68,25,25,27,74,loss hearing,31,60,64,15,0,22,normal,Patient_749
+91,46,16,56,86,87,loss hearing,14,64,91,72,78,26,loss hearing,Patient_750
+31,99,29,29,80,54,loss hearing,39,35,38,74,27,39,loss hearing,Patient_751
+59,20,89,90,20,0,loss hearing,82,55,50,6,58,62,loss hearing,Patient_752
+24,87,68,32,11,60,loss hearing,100,43,5,55,71,71,loss hearing,Patient_753
+43,39,25,72,33,11,normal,8,89,66,70,94,54,loss hearing,Patient_754
+59,1,29,45,79,24,normal,78,1,97,99,87,81,loss hearing,Patient_755
+5,36,19,59,93,8,normal,68,85,82,70,22,84,loss hearing,Patient_756
+72,89,39,65,48,57,loss hearing,100,95,52,15,23,43,loss hearing,Patient_757
+68,97,78,82,64,11,loss hearing,14,89,81,16,41,50,loss hearing,Patient_758
+10,89,85,81,1,17,loss hearing,85,38,20,77,63,57,loss hearing,Patient_759
+39,73,98,1,16,15,loss hearing,45,69,27,69,45,30,loss hearing,Patient_760
+7,37,43,90,54,50,loss hearing,93,82,28,79,31,3,loss hearing,Patient_761
+89,21,9,50,57,56,loss hearing,16,0,17,11,5,71,normal,Patient_762
+23,74,43,72,98,94,loss hearing,41,65,51,65,36,75,loss hearing,Patient_763
+15,55,64,11,43,21,normal,48,16,84,60,16,98,loss hearing,Patient_764
+20,79,69,32,66,99,loss hearing,20,43,35,62,34,42,normal,Patient_765
+27,1,61,78,35,21,normal,23,33,36,71,9,70,loss hearing,Patient_766
+38,65,79,17,14,61,loss hearing,73,96,65,8,94,31,loss hearing,Patient_767
+23,10,25,71,67,13,normal,17,73,8,66,88,98,loss hearing,Patient_768
+43,31,2,6,37,35,normal,36,47,90,39,59,68,loss hearing,Patient_769
+36,9,81,77,40,12,loss hearing,71,63,60,84,51,49,loss hearing,Patient_770
+40,78,48,100,93,35,loss hearing,58,53,28,37,77,5,loss hearing,Patient_771
+81,82,83,82,50,71,loss hearing,93,7,100,59,6,13,loss hearing,Patient_772
+34,89,60,29,37,72,loss hearing,81,98,53,93,45,86,loss hearing,Patient_773
+10,48,28,58,76,8,normal,72,80,88,34,56,0,loss hearing,Patient_774
+86,96,11,28,23,98,loss hearing,72,35,66,33,24,71,loss hearing,Patient_775
+92,15,9,38,66,59,loss hearing,67,78,24,83,85,60,loss hearing,Patient_776
+88,78,80,93,2,52,loss hearing,14,72,28,18,86,40,loss hearing,Patient_777
+59,23,36,6,23,21,normal,66,2,100,29,71,12,loss hearing,Patient_778
+52,14,97,22,65,15,loss hearing,4,40,51,68,27,71,loss hearing,Patient_779
+87,85,74,37,89,11,loss hearing,45,88,14,90,27,70,loss hearing,Patient_780
+37,17,19,71,15,39,normal,46,9,74,1,87,45,loss hearing,Patient_781
+44,95,10,37,54,36,loss hearing,99,40,0,65,7,7,normal,Patient_782
+7,21,55,93,98,76,loss hearing,45,85,29,61,24,54,loss hearing,Patient_783
+47,83,24,48,0,54,loss hearing,1,15,25,65,75,100,loss hearing,Patient_784
+34,27,23,19,67,29,normal,75,71,50,78,85,96,loss hearing,Patient_785
+52,0,84,35,36,80,loss hearing,33,28,4,19,90,48,normal,Patient_786
+75,93,93,50,69,1,loss hearing,59,18,47,56,6,24,normal,Patient_787
+48,52,14,33,97,71,loss hearing,24,43,27,94,82,73,loss hearing,Patient_788
+45,14,85,49,57,97,loss hearing,21,55,19,19,96,90,loss hearing,Patient_789
+30,18,72,69,58,7,loss hearing,21,90,71,92,73,6,loss hearing,Patient_790
+62,82,55,54,71,63,loss hearing,92,0,5,68,9,91,loss hearing,Patient_791
+61,83,87,38,97,74,loss hearing,93,94,76,89,91,46,loss hearing,Patient_792
+55,40,46,17,37,61,loss hearing,40,54,19,61,71,59,loss hearing,Patient_793
+39,0,69,35,45,0,normal,64,21,20,77,98,80,loss hearing,Patient_794
+42,90,62,76,59,0,loss hearing,84,40,41,97,57,91,loss hearing,Patient_795
+6,56,100,80,88,42,loss hearing,22,86,25,5,65,84,loss hearing,Patient_796
+99,10,84,79,35,77,loss hearing,20,18,21,16,33,97,normal,Patient_797
+0,0,1,52,100,75,normal,38,83,53,4,88,29,loss hearing,Patient_798
+37,56,69,59,23,61,loss hearing,79,77,64,28,17,84,loss hearing,Patient_799
+2,12,31,2,55,44,normal,54,23,91,62,24,97,loss hearing,Patient_800
+34,53,20,53,89,98,loss hearing,3,62,77,33,27,78,loss hearing,Patient_801
+4,75,71,60,17,41,loss hearing,10,59,13,62,50,45,normal,Patient_802
+5,100,93,54,93,48,loss hearing,56,100,84,73,28,86,loss hearing,Patient_803
+76,80,85,74,22,38,loss hearing,71,79,62,79,64,26,loss hearing,Patient_804
+97,27,92,82,95,14,loss hearing,70,58,34,34,18,30,loss hearing,Patient_805
+92,66,52,34,52,99,loss hearing,56,97,16,16,43,99,loss hearing,Patient_806
+16,43,85,63,8,85,loss hearing,45,80,1,23,34,2,normal,Patient_807
+100,98,91,63,89,34,loss hearing,30,33,5,81,22,25,normal,Patient_808
+42,48,52,51,15,80,loss hearing,28,77,38,41,38,53,loss hearing,Patient_809
+17,67,62,20,100,31,loss hearing,65,79,91,38,57,66,loss hearing,Patient_810
+57,5,95,96,76,16,loss hearing,60,45,69,80,68,67,loss hearing,Patient_811
+64,14,20,7,42,72,normal,15,24,11,33,52,53,normal,Patient_812
+56,10,38,7,89,43,loss hearing,67,13,87,75,7,58,loss hearing,Patient_813
+75,12,12,22,89,1,normal,87,41,35,0,21,63,loss hearing,Patient_814
+13,10,20,46,13,44,normal,75,4,80,92,37,65,loss hearing,Patient_815
+50,86,53,83,12,46,loss hearing,76,18,98,31,90,89,loss hearing,Patient_816
+98,0,12,6,17,40,normal,96,76,34,77,29,35,loss hearing,Patient_817
+88,23,59,46,33,77,loss hearing,23,41,30,13,48,2,normal,Patient_818
+92,35,81,26,28,49,loss hearing,14,28,73,36,91,15,loss hearing,Patient_819
+9,84,70,97,36,69,loss hearing,47,68,2,56,11,37,normal,Patient_820
+69,71,8,65,57,2,loss hearing,13,4,54,86,2,12,normal,Patient_821
+36,4,14,42,37,76,normal,74,71,36,43,53,82,loss hearing,Patient_822
+42,5,70,21,48,93,loss hearing,86,37,10,84,81,3,loss hearing,Patient_823
+62,15,99,26,10,70,loss hearing,68,96,43,13,45,68,loss hearing,Patient_824
+48,28,38,90,22,89,loss hearing,98,95,40,21,30,84,loss hearing,Patient_825
+85,55,4,4,41,19,normal,71,0,43,57,97,76,loss hearing,Patient_826
+60,87,25,64,18,83,loss hearing,80,94,38,28,87,81,loss hearing,Patient_827
+26,17,94,75,61,58,loss hearing,59,9,22,80,68,60,loss hearing,Patient_828
+46,46,41,79,24,86,loss hearing,87,9,30,27,76,43,loss hearing,Patient_829
+74,86,82,23,42,37,loss hearing,56,90,2,61,28,96,loss hearing,Patient_830
+23,30,80,87,66,56,loss hearing,77,51,78,69,13,26,loss hearing,Patient_831
+29,77,85,60,44,66,loss hearing,53,0,13,71,65,89,loss hearing,Patient_832
+61,1,86,93,73,36,loss hearing,61,14,38,86,96,31,loss hearing,Patient_833
+73,21,83,53,92,11,loss hearing,56,28,69,7,89,80,loss hearing,Patient_834
+53,79,81,80,91,72,loss hearing,13,19,41,33,90,95,loss hearing,Patient_835
+68,79,41,72,57,90,loss hearing,7,17,28,55,35,0,normal,Patient_836
+71,8,88,66,6,59,loss hearing,19,45,76,90,22,30,loss hearing,Patient_837
+47,96,86,46,78,90,loss hearing,58,58,54,32,22,68,loss hearing,Patient_838
+88,7,47,53,79,33,loss hearing,91,52,60,20,52,98,loss hearing,Patient_839
+73,73,79,55,62,73,loss hearing,52,46,86,73,28,75,loss hearing,Patient_840
+23,83,98,25,32,81,loss hearing,56,84,4,26,46,79,loss hearing,Patient_841
+100,100,52,81,61,67,loss hearing,51,20,33,100,32,52,loss hearing,Patient_842
+28,33,28,16,85,62,loss hearing,9,62,79,90,63,26,loss hearing,Patient_843
+51,12,7,24,35,39,normal,11,54,60,17,3,7,normal,Patient_844
+26,96,52,75,50,70,loss hearing,33,28,97,97,11,26,loss hearing,Patient_845
+90,93,69,53,69,46,loss hearing,86,68,91,27,100,31,loss hearing,Patient_846
+71,65,71,93,27,26,loss hearing,25,40,72,44,32,63,loss hearing,Patient_847
+95,97,21,88,29,48,loss hearing,95,24,62,94,13,59,loss hearing,Patient_848
+55,24,81,74,43,37,loss hearing,33,69,66,75,66,77,loss hearing,Patient_849
+45,81,32,79,30,64,loss hearing,88,70,28,61,79,13,loss hearing,Patient_850
+50,37,83,87,69,85,loss hearing,59,76,1,63,12,69,loss hearing,Patient_851
+100,13,54,28,62,42,loss hearing,69,65,56,68,44,61,loss hearing,Patient_852
+6,6,3,2,65,86,normal,26,50,65,52,47,43,loss hearing,Patient_853
+44,99,0,0,20,16,normal,79,77,23,84,52,68,loss hearing,Patient_854
+89,2,79,12,4,8,normal,79,63,46,8,26,44,loss hearing,Patient_855
+87,12,7,85,55,64,loss hearing,83,6,29,93,12,82,loss hearing,Patient_856
+96,72,65,31,64,98,loss hearing,77,67,38,47,41,27,loss hearing,Patient_857
+60,62,44,77,76,72,loss hearing,39,86,63,46,89,76,loss hearing,Patient_858
+8,54,70,52,85,68,loss hearing,59,77,84,35,59,43,loss hearing,Patient_859
+36,62,26,25,28,33,normal,8,66,67,79,74,73,loss hearing,Patient_860
+57,23,1,79,90,98,loss hearing,79,42,69,85,87,62,loss hearing,Patient_861
+39,50,54,81,40,7,loss hearing,28,58,3,1,54,62,normal,Patient_862
+96,71,24,61,19,48,loss hearing,64,52,27,77,54,85,loss hearing,Patient_863
+73,100,62,67,66,43,loss hearing,22,66,48,25,61,67,loss hearing,Patient_864
+70,37,59,60,52,41,loss hearing,79,71,75,16,78,42,loss hearing,Patient_865
+85,25,37,55,13,36,loss hearing,69,39,94,37,77,43,loss hearing,Patient_866
+12,88,19,6,38,12,normal,83,3,58,51,49,18,loss hearing,Patient_867
+67,80,9,51,41,77,loss hearing,47,16,71,30,88,54,loss hearing,Patient_868
+98,53,69,22,82,72,loss hearing,14,45,47,70,58,4,normal,Patient_869
+93,56,23,79,30,37,loss hearing,63,91,13,1,0,44,normal,Patient_870
+9,32,12,39,11,68,normal,1,49,54,38,26,6,normal,Patient_871
+49,54,61,34,64,34,loss hearing,94,46,48,98,28,82,loss hearing,Patient_872
+61,85,82,91,23,3,loss hearing,62,87,68,78,38,35,loss hearing,Patient_873
+12,35,42,43,6,0,normal,91,93,86,45,44,83,loss hearing,Patient_874
+66,53,16,4,76,46,loss hearing,86,66,11,83,65,94,loss hearing,Patient_875
+100,22,54,72,12,100,loss hearing,48,32,69,71,55,62,loss hearing,Patient_876
+60,13,100,71,58,33,loss hearing,79,11,23,1,81,8,normal,Patient_877
+61,10,43,67,13,74,loss hearing,84,92,41,21,71,90,loss hearing,Patient_878
+91,83,97,96,7,34,loss hearing,6,54,3,10,10,71,normal,Patient_879
+84,93,68,93,9,17,loss hearing,35,24,76,33,58,77,loss hearing,Patient_880
+61,87,68,72,31,66,loss hearing,52,69,88,30,33,81,loss hearing,Patient_881
+42,78,87,32,55,52,loss hearing,95,93,21,18,65,81,loss hearing,Patient_882
+1,56,27,83,49,5,normal,99,44,61,39,18,88,loss hearing,Patient_883
+43,44,95,45,62,45,loss hearing,98,4,69,48,21,24,loss hearing,Patient_884
+53,85,17,83,99,4,loss hearing,73,58,63,85,61,27,loss hearing,Patient_885
+34,5,18,92,1,48,normal,61,52,98,41,68,39,loss hearing,Patient_886
+96,5,94,74,85,60,loss hearing,100,33,28,23,13,75,loss hearing,Patient_887
+57,94,55,59,2,2,loss hearing,10,35,64,59,50,97,loss hearing,Patient_888
+8,14,18,94,94,19,loss hearing,78,59,42,57,7,84,loss hearing,Patient_889
+61,21,46,1,52,59,loss hearing,62,98,70,14,72,90,loss hearing,Patient_890
+40,51,3,76,96,52,loss hearing,68,45,45,73,98,78,loss hearing,Patient_891
+71,30,4,90,100,70,loss hearing,49,82,82,2,62,49,loss hearing,Patient_892
+86,30,0,95,96,89,loss hearing,9,18,48,64,39,38,normal,Patient_893
+35,43,69,91,12,69,loss hearing,83,99,17,30,87,10,loss hearing,Patient_894
+59,58,57,33,73,15,loss hearing,67,73,30,66,36,33,loss hearing,Patient_895
+62,52,43,6,47,71,loss hearing,6,94,16,19,36,27,normal,Patient_896
+78,15,92,41,42,19,loss hearing,67,16,27,15,69,32,normal,Patient_897
+95,78,77,64,4,52,loss hearing,27,24,37,19,34,5,normal,Patient_898
+81,71,43,85,99,23,loss hearing,67,85,15,21,8,34,normal,Patient_899
+30,44,66,94,98,96,loss hearing,7,66,68,72,68,86,loss hearing,Patient_900
+2,34,81,97,16,84,loss hearing,31,82,66,71,32,90,loss hearing,Patient_901
+95,41,62,83,89,29,loss hearing,9,69,48,22,44,100,loss hearing,Patient_902
+88,72,88,26,57,63,loss hearing,2,3,0,11,91,53,normal,Patient_903
+79,94,17,77,3,93,loss hearing,7,6,21,7,46,44,normal,Patient_904
+75,63,96,45,47,37,loss hearing,77,98,40,13,90,87,loss hearing,Patient_905
+23,83,34,14,47,86,loss hearing,3,23,21,45,86,91,loss hearing,Patient_906
+4,63,55,76,53,37,loss hearing,7,14,10,19,61,88,normal,Patient_907
+42,68,16,10,8,23,normal,45,93,89,22,87,25,loss hearing,Patient_908
+83,64,44,39,46,15,loss hearing,24,55,36,79,51,35,loss hearing,Patient_909
+81,15,64,1,49,69,loss hearing,65,57,55,89,1,27,loss hearing,Patient_910
+70,32,97,6,54,49,loss hearing,42,18,73,37,70,41,loss hearing,Patient_911
+57,91,21,61,17,97,loss hearing,6,28,22,5,60,6,normal,Patient_912
+81,68,10,43,73,45,loss hearing,62,95,59,57,2,53,loss hearing,Patient_913
+20,88,67,76,78,94,loss hearing,27,85,13,48,5,12,normal,Patient_914
+20,0,39,95,36,85,loss hearing,85,91,4,4,55,52,loss hearing,Patient_915
+62,46,77,41,82,15,loss hearing,4,29,21,65,61,58,normal,Patient_916
+15,84,17,13,49,38,normal,45,74,30,32,55,86,loss hearing,Patient_917
+85,93,36,31,56,14,loss hearing,48,59,96,10,12,23,loss hearing,Patient_918
+77,67,75,18,14,89,loss hearing,77,94,51,100,93,81,loss hearing,Patient_919
+84,89,86,30,40,99,loss hearing,26,83,48,1,19,64,loss hearing,Patient_920
+13,53,9,93,99,30,loss hearing,73,62,54,53,72,70,loss hearing,Patient_921
+11,61,9,41,72,91,loss hearing,93,82,8,54,67,22,loss hearing,Patient_922
+69,68,14,77,62,21,loss hearing,4,54,83,51,76,53,loss hearing,Patient_923
+81,14,91,2,24,42,loss hearing,22,40,59,38,68,70,loss hearing,Patient_924
+44,57,62,26,61,55,loss hearing,6,94,3,16,100,9,normal,Patient_925
+83,53,26,6,82,86,loss hearing,66,92,94,24,12,38,loss hearing,Patient_926
+51,17,55,58,94,42,loss hearing,97,22,17,26,3,43,normal,Patient_927
+37,42,12,0,65,63,normal,22,90,96,68,76,5,loss hearing,Patient_928
+59,51,54,21,90,81,loss hearing,86,67,79,87,80,97,loss hearing,Patient_929
+89,61,14,8,6,19,normal,70,62,97,19,58,11,loss hearing,Patient_930
+29,97,3,61,32,2,normal,43,61,29,87,69,19,loss hearing,Patient_931
+34,67,91,100,36,7,loss hearing,52,31,77,64,94,98,loss hearing,Patient_932
+99,11,14,92,95,32,loss hearing,80,25,22,61,53,82,loss hearing,Patient_933
+56,21,22,100,76,73,loss hearing,26,84,11,86,8,94,loss hearing,Patient_934
+85,52,66,35,25,0,loss hearing,92,4,72,56,100,71,loss hearing,Patient_935
+20,23,10,2,45,85,normal,50,80,24,28,52,55,loss hearing,Patient_936
+10,8,8,55,82,49,normal,93,57,48,54,66,53,loss hearing,Patient_937
+54,18,56,74,57,80,loss hearing,27,88,2,11,51,74,loss hearing,Patient_938
+52,1,74,75,34,7,loss hearing,91,23,45,32,36,25,loss hearing,Patient_939
+45,74,44,16,64,72,loss hearing,52,38,71,58,79,81,loss hearing,Patient_940
+90,5,47,10,72,18,loss hearing,26,28,42,69,6,13,normal,Patient_941
+33,86,65,69,41,54,loss hearing,74,30,60,69,69,59,loss hearing,Patient_942
+30,95,15,18,29,42,normal,17,70,52,1,90,5,normal,Patient_943
+26,25,40,38,0,15,normal,42,20,3,9,9,75,normal,Patient_944
+37,7,90,7,83,83,loss hearing,28,47,76,48,8,62,loss hearing,Patient_945
+19,32,51,79,25,80,loss hearing,7,21,43,99,12,20,normal,Patient_946
+72,90,15,1,77,56,loss hearing,30,97,59,1,38,5,normal,Patient_947
+52,94,98,15,26,35,loss hearing,88,43,46,69,47,8,loss hearing,Patient_948
+99,25,68,75,33,71,loss hearing,1,57,63,31,57,54,loss hearing,Patient_949
+87,70,67,95,13,4,loss hearing,81,1,30,56,62,57,loss hearing,Patient_950
+23,18,80,18,18,44,normal,49,49,14,35,99,52,loss hearing,Patient_951
+99,22,76,56,73,96,loss hearing,43,100,20,20,97,34,loss hearing,Patient_952
+0,17,43,43,50,40,normal,92,72,28,18,94,94,loss hearing,Patient_953
+1,75,51,78,75,51,loss hearing,18,49,30,17,56,60,normal,Patient_954
+71,40,79,37,83,8,loss hearing,13,31,6,2,59,62,normal,Patient_955
+85,52,40,21,44,29,loss hearing,35,88,60,64,28,2,loss hearing,Patient_956
+97,73,86,43,85,80,loss hearing,69,80,39,21,12,43,loss hearing,Patient_957
+77,8,20,22,51,90,loss hearing,84,7,87,62,99,11,loss hearing,Patient_958
+27,18,95,96,65,59,loss hearing,33,22,75,52,80,27,loss hearing,Patient_959
+39,71,23,39,65,38,loss hearing,42,83,90,68,45,33,loss hearing,Patient_960
+72,84,7,83,22,36,loss hearing,2,32,84,36,2,86,loss hearing,Patient_961
+54,89,78,80,57,97,loss hearing,48,40,21,38,76,87,loss hearing,Patient_962
+42,44,64,17,34,69,loss hearing,23,90,82,23,66,87,loss hearing,Patient_963
+26,44,38,85,61,56,loss hearing,26,46,31,98,22,29,loss hearing,Patient_964
+89,51,78,95,46,27,loss hearing,79,65,78,25,30,67,loss hearing,Patient_965
+15,11,17,62,97,21,normal,89,97,2,47,64,62,loss hearing,Patient_966
+16,72,65,100,99,1,loss hearing,44,20,83,63,41,94,loss hearing,Patient_967
+52,19,50,93,35,2,loss hearing,82,71,94,1,25,90,loss hearing,Patient_968
+85,98,63,57,21,38,loss hearing,49,52,51,81,78,12,loss hearing,Patient_969
+14,80,71,76,7,1,loss hearing,26,46,53,6,38,37,normal,Patient_970
+46,90,76,8,2,87,loss hearing,85,43,0,1,65,21,normal,Patient_971
+64,100,42,77,75,58,loss hearing,90,32,10,36,67,84,loss hearing,Patient_972
+87,43,2,94,85,14,loss hearing,58,16,23,34,13,60,normal,Patient_973
+90,58,52,31,50,78,loss hearing,4,55,37,59,41,36,normal,Patient_974
+19,67,26,30,23,12,normal,76,23,12,94,82,57,loss hearing,Patient_975
+46,36,22,45,78,60,loss hearing,3,2,39,64,2,50,normal,Patient_976
+98,25,94,51,56,78,loss hearing,86,30,61,4,19,13,normal,Patient_977
+26,62,79,42,33,80,loss hearing,95,93,57,93,50,85,loss hearing,Patient_978
+33,90,81,56,72,95,loss hearing,89,23,54,88,4,12,loss hearing,Patient_979
+85,92,57,5,36,78,loss hearing,35,72,94,78,36,66,loss hearing,Patient_980
+89,90,36,8,92,75,loss hearing,74,42,35,2,4,70,normal,Patient_981
+55,86,26,95,93,59,loss hearing,81,16,100,95,22,59,loss hearing,Patient_982
+12,35,43,78,30,40,normal,69,32,4,15,97,53,loss hearing,Patient_983
+51,22,24,59,76,81,loss hearing,7,60,15,41,21,23,normal,Patient_984
+44,55,8,63,98,62,loss hearing,43,31,86,63,45,25,loss hearing,Patient_985
+66,63,8,98,58,51,loss hearing,85,33,76,43,43,97,loss hearing,Patient_986
+93,57,8,57,79,100,loss hearing,45,10,30,33,46,34,normal,Patient_987
+89,22,6,15,21,86,normal,5,0,0,29,73,66,normal,Patient_988
+46,65,90,91,93,20,loss hearing,49,98,33,95,81,75,loss hearing,Patient_989
+47,20,20,93,9,14,normal,42,74,16,17,67,40,loss hearing,Patient_990
+11,83,76,44,4,81,loss hearing,4,21,61,48,50,98,loss hearing,Patient_991
+38,31,17,15,73,58,normal,13,28,81,53,70,4,loss hearing,Patient_992
+84,43,55,13,30,51,loss hearing,14,83,67,86,74,46,loss hearing,Patient_993
+3,52,50,35,13,88,loss hearing,76,89,10,60,81,23,loss hearing,Patient_994
+12,87,41,19,57,7,normal,61,86,98,23,32,88,loss hearing,Patient_995
+89,27,80,23,41,52,loss hearing,3,34,71,8,62,58,normal,Patient_996
+15,15,17,85,72,100,loss hearing,46,100,2,38,43,40,loss hearing,Patient_997
+63,24,100,61,24,24,loss hearing,35,19,10,28,66,98,loss hearing,Patient_998
+64,65,36,26,98,96,loss hearing,7,61,77,93,52,87,loss hearing,Patient_999
+26,14,52,64,20,80,loss hearing,73,4,66,18,13,3,normal,Patient_1000
